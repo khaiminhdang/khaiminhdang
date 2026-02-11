@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi there! 👋<br>I'm Minh, a Supply Chain Analyst based in Vietnam.<br><br>With a strong interest in data-driven optimization, I focus on improving supply chain performance through analytics, forecasting, and process improvement<br><br>My Skills & Knowledge includes:
 + Strong background in **Data Analysis & Business Intelligence** using **Python**, **Power BI**, **Tableau**, and **Excel (Advanced + Power Query)**
 + Experienced in Supply Chain Analytics, **Inventory Optimization**, and **Logistics Operations Analysis**
