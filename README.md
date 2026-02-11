@@ -10,5 +10,4 @@ My Skills & Knowledge includes:
 + Worked on Inventory Management, **Safety Stock** calculation, **Reorder Point** optimization, and **Working Capital improvement**
 + Analyzed and optimized **transportation planning**, routing, and cold chain logistics operations
 + Developed **dashboards & KPI systems** for executive-level performance tracking
-+ Hands-on experience with data cleaning, transformation, and automation workflows using **Power Query & Python**
 + Interested in building data-driven solutions for **Smart Manufacturing** & **Supply Chain digital transformation**
